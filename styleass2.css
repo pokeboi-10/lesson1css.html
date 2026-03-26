@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    word-spacing: 30px;
+    letter-spacing: 20px;
+    
+}
+body{
+    background-color: burlywood;
+}
+p{
+    text-align: center;
+}
+h3{
+    border-top: 8px black double;
+    border-right: 8px lightgreen groove;
+    border-bottom: 8px green groove;
+    border-left:8px blue groove;
+    
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 80px;
+    padding-left: 30px;
+
+    margin-top: 20px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    margin-left: 170px;
+
+    background-color: brown;
+    color: white;
+}
+a{
+    border: 2px brown solid;
+    padding:7px;
+    background-color: brown;
+    color: white;
+    margin-left: 20px;
+} 
